@@ -20,3 +20,5 @@ A Usable item that adds an extended magazine to your current holding weapon
 5. Go to your server.cfg and type ensure f_esxextendedmag
 
 6. Make sure that es_extended is started before f_esxextendedmag
+
+7. Open the extendedmag.sql, log in to your database, right click and run
